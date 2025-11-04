@@ -7,7 +7,7 @@
 |----|-----------|--------------|-------------------------------------------------------------------------------|--------------|----------------------|
 | 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan                            | [Kode 01](https://github.com/wirdaamilia/modul-1.git)      | [Wirda Prak](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?usp=sharing)           |
 | 2  | 01        | 01           | Widget Row dan Column                                                         | [Kode 02](https://github.com/wirdaamilia/Modul-2.git)      | Wirda Prak           |
-| 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter                                   | Kode 03      | Wirda Prak           |
+| 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter                                   | [Kode 03](https://github.com/wirdaamilia/Modul-3.git)      | Wirda Prak           |
 | 4  | 02        | 02           | Widget Flexible dan Expanded                                                  | Kode 04      | Wirda Prak           |
 | 5  | 03        | 03           | Widget SizedBox, Spacer, dan Card                                             | Kode 05      | Wirda Prak           |
 | 6  | 03        | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder             | Kode 06      | Wirda Prak           |
