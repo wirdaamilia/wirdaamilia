@@ -12,7 +12,7 @@
 | 5  | 03        | 03           | Widget SizedBox, Spacer, dan Card                                             | Kode 05      | Wirda Prak           |
 | 6  | 03        | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder             | [Kode 06](https://github.com/wirdaamilia/Modul-6.git)      | Wirda Prak           |
 | 7  | 03        | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder             | [Kode 07](https://github.com/wirdaamilia/Modul-7.git)      | Wirda Prak           |
-| 8  | 05        | 05           | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route     | Kode 08      | Wirda Prak           |
+| 8  | 05        | 05           | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route     | [Kode 08](https://github.com/wirdaamilia/Modul-8.git)      | Wirda Prak           |
 | 9  | 05        | 05           | StatefulWidget                                                                | Kode 09      | Wirda Prak           |
 | 10 | 06        | 06           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Kode 10](https://github.com/wirdaamilia/Modul-10.git)     | [Wirda Prak](https://drive.google.com/file/d/16m9k9xbU4SOsHNHCHSNoSVt_RoFHyHlf/view?usp=drive_link)          |
 | 11 | 07        | 07           | Manajemen State dengan GetX                                                   | Kode 11      | Wirda Prak           |
