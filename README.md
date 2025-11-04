@@ -10,7 +10,7 @@
 | 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter                                   | [Kode 03](https://github.com/wirdaamilia/Modul-3.git)      | Wirda Prak           |
 | 4  | 02        | 02           | Widget Flexible dan Expanded                                                  | [Kode 04](https://github.com/wirdaamilia/Modul-4.git)      | Wirda Prak           |
 | 5  | 03        | 03           | Widget SizedBox, Spacer, dan Card                                             | Kode 05      | Wirda Prak           |
-| 6  | 03        | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder             | Kode 06      | Wirda Prak           |
+| 6  | 03        | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder             | [Kode 06](https://github.com/wirdaamilia/Modul-6.git)      | Wirda Prak           |
 | 7  | 03        | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder             | Kode 07      | Wirda Prak           |
 | 8  | 05        | 05           | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route     | Kode 08      | Wirda Prak           |
 | 9  | 05        | 05           | StatefulWidget                                                                | Kode 09      | Wirda Prak           |
