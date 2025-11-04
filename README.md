@@ -8,3 +8,19 @@
 | 1   | 03-09-2025| 01           | Pengenalan Mobile Programming & Setup Lingkungan | [Modul 01](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?usp=sharing) | [Template laporan](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit?usp=sharing) |
 | 2   | 10-09-2025| 02           | (isi sesuai materi) | [Modul 02](link-modul02) | [Template laporan](link-template) |
 
+
+| No | Minggu ke | Praktikum ke | Topik                                                                         | Kode Program | Laprak               |
+|----|-----------|--------------|-------------------------------------------------------------------------------|--------------|----------------------|
+| 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan                            | Kode 01      | [Wirda Prak](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?usp=sharing)           |
+| 2  | 01        | 01           | Widget Row dan Column                                                         | Kode 02      | Wirda Prak           |
+| 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter                                   | Kode 03      | Wirda Prak           |
+| 4  | 02        | 02           | Widget Flexible dan Expanded                                                  | Kode 04      | Wirda Prak           |
+| 5  | 03        | 03           | Widget SizedBox, Spacer, dan Card                                             | Kode 05      | Wirda Prak           |
+| 6  | 03        | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder             | Kode 06      | Wirda Prak           |
+| 7  | 03        | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder             | Kode 07      | Wirda Prak           |
+| 8  | 05        | 05           | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route     | Kode 08      | Wirda Prak           |
+| 9  | 05        | 05           | StatefulWidget                                                                | Kode 09      | Wirda Prak           |
+| 10 | 06        | 06           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | Kode 10      | Wirda Prak           |
+| 11 | 07        | 07           | Manajemen State dengan GetX                                                   | Kode 11      | Wirda Prak           |
+| 12 | 08        | 08           | Ujian Tengah Seemester                                                        | Kode UTS     | Wirda Prak           |
+| 13 | 09        | 09           | Akses Lokasi dengan GPS di Flutter                                            | Kode 12      | Wirda Prak           |
