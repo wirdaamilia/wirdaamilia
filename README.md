@@ -14,7 +14,7 @@
 | 7  | 03        | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder             | Kode 07      | Wirda Prak           |
 | 8  | 05        | 05           | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route     | Kode 08      | Wirda Prak           |
 | 9  | 05        | 05           | StatefulWidget                                                                | Kode 09      | Wirda Prak           |
-| 10 | 06        | 06           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | Kode 10      | Wirda Prak           |
+| 10 | 06        | 06           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Kode 10](https://github.com/wirdaamilia/Modul-10.git)     | Wirda Prak           |
 | 11 | 07        | 07           | Manajemen State dengan GetX                                                   | Kode 11      | Wirda Prak           |
 | 12 | 08        | 08           | Ujian Tengah Seemester                                                        | Kode UTS     | Wirda Prak           |
 | 13 | 09        | 09           | Akses Lokasi dengan GPS di Flutter                                            | Kode 12      | Wirda Prak           |
