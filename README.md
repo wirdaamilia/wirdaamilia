@@ -18,3 +18,5 @@
 | 11 | 07        | 07           | Manajemen State dengan GetX                                                   | Kode 11      | Wirda Prak           |
 | 12 | 08        | 08           | Ujian Tengah Seemester                                                        | [Kode UTS](https://github.com/wirdaamilia/muslimah_cycle.git)     | [Wirda UTS](https://drive.google.com/drive/folders/1fNc6vOchvDZKCdbmCF_Mr5mtzQrnhMgf?usp=sharing)          |
 | 13 | 09        | 09           | Akses Lokasi dengan GPS di Flutter                                            | Kode 12      | Wirda Prak           |
+| 14 | 09        | 09           | Akses Lokasi dengan GPS di Flutter                                            | Kode 13      | Wirda Prak           |
+| 13 | 09        | 09           | Ujian Akhir Semester                                            | Kode UAS      | UAS           |
