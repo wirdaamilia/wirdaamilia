@@ -17,6 +17,6 @@
 | 10 | 06        | 06           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Kode 10](https://github.com/wirdaamilia/Modul-10.git)     | [Wirda Prak](https://drive.google.com/file/d/16m9k9xbU4SOsHNHCHSNoSVt_RoFHyHlf/view?usp=drive_link)          |
 | 11 | 07        | 07           | Manajemen State dengan GetX                                                   | Kode 11      | Wirda Prak           |
 | 12 | 08        | 08           | Ujian Tengah Seemester                                                        | [Kode UTS](https://github.com/wirdaamilia/muslimah_cycle.git)     | [Wirda UTS](https://drive.google.com/drive/folders/1fNc6vOchvDZKCdbmCF_Mr5mtzQrnhMgf?usp=sharing)          |
-| 13 | 09        | 09           | Akses Lokasi dengan GPS di Flutter                                            | Kode 12      | Wirda Prak           |
+| 13 | 09        | 09           | Akses Lokasi dengan GPS di Flutter                                            | [Kode 12](https://github.com/wirdaamilia/modul-12.git)      | Wirda Prak           |
 | 14 | 09        | 09           | Akses Lokasi dengan GPS di Flutter                                            | Kode 13      | Wirda Prak           |
 | 13 | 09        | 09           | Ujian Akhir Semester                                            | Kode UAS      | UAS           |
