@@ -19,4 +19,4 @@
 | 12 | 08        | 08           | Ujian Tengah Seemester                                                        | [Kode UTS](https://github.com/wirdaamilia/muslimah_cycle.git)     | [Wirda UTS](https://drive.google.com/drive/folders/1fNc6vOchvDZKCdbmCF_Mr5mtzQrnhMgf?usp=sharing)          |
 | 13 | 09        | 09           | Akses Lokasi dengan GPS di Flutter                                            | [Kode 12](https://github.com/wirdaamilia/modul-12.git)      | Wirda Prak           |
 | 14 | 09        | 09           | Akses Lokasi dengan GPS di Flutter                                            | [Kode 13](https://github.com/wirdaamilia/modul-13.git)      | Wirda Prak           |
-| 13 | 09        | 09           | Ujian Akhir Semester                                            | Kode UAS      | UAS           |
+| 13 | 09        | 09           | Ujian Akhir Semester                                            | [Kode UAS](https://github.com/wirdaamilia/uas_mobile_muslimah_cycle.git)      | [UAS](https://drive.google.com/file/d/1T9k2q8fuywa2iA6VPSd8Z4VAqizoFQeE/view?usp=sharing)           |
